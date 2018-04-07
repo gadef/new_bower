@@ -1,0 +1,23 @@
+{
+  "name": "proyecto_bower",
+  "authors": [
+    "Erick García <egarcia.gadef@gmail.com>"
+  ],
+  "description": "Mi pimer proyecto bower",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.0.0",
+    "fontawesome": "^5.0.9"
+  }
+}
